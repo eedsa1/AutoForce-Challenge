@@ -12,9 +12,9 @@ Things you may want to cover:
 * System dependencies<br/>
 	-gem mysql2
 * Configuration<br/>
-	-Utilização em conjunto com wamppserver 64 bits
-	-PHPMydmin para gerenciamento dos dados
-	-Postman para teste das URLs
+	-Utilização em conjunto com wamppserver 64 bits<br/>
+	-PHPMydmin para gerenciamento dos dados<br/>
+	-Postman para teste das URLs<br/>
 * Database creation<br/>
 	-somente executar o comando rails db:migrate na pasta
 * Database initialization<br/>
