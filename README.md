@@ -27,7 +27,7 @@ Things you may want to cover:
 * Deployment instructions<br/>
 	-none
 * Utilização<br/>
-	-as urls foram utilizadas no postman setando-se o método HTTP em destaque<br/>
+	-as URIs foram utilizadas no postman setando-se o método HTTP em destaque<br/>
 	Seguir o padrão de URI para acessar o determinado recurso:<br/>
 	 -POST api/v1/orders(cria uma order)<br/>
 	 -GET api/v1/orders/getStatus/:id(recupera o status de uma order pelo id)<br/>
