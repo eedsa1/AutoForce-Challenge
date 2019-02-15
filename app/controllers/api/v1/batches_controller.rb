@@ -2,7 +2,6 @@ module Api
 	module V1
 		class BatchesController < ApplicationController
 
-			#Criação de um batch
 			def create
 				begin
 					batch = Batch.new(batch_params)
@@ -22,7 +21,6 @@ module Api
 				end
 			end
 
-			#alteração de status para closing
 			def produceBatch
 				begin
 					batch = Batch.find(params[:batch_id])
@@ -35,7 +33,6 @@ module Api
 				end
 			end
 
-			#ajuste para alteração do status para sent
 			def markOrderAsSent
 				begin
 					batch = Batch.find(params[:batch_id])

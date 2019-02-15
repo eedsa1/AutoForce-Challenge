@@ -3,7 +3,6 @@ module Api
 		class OrdersController < ApplicationController
 
 
-			#create order
 			def create
 				begin
 					order = Order.new(order_params)
@@ -18,7 +17,6 @@ module Api
 				end
 			end
 
-			#get the status
 			def getStatus
 				begin
 					order = Order.find(params[:id])

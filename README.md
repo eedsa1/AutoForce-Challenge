@@ -16,7 +16,8 @@ Things you may want to cover:
 	-PHPMydmin para gerenciamento dos dados<br/>
 	-Postman para teste das URLs<br/>
 * Database creation<br/>
-	-somente executar o comando rails db:migrate na pasta
+	-somente executar o comando rails db:migrate na pasta<br/>
+	-o nome definido para a base de dados foi "challenge", como pode ser visto no arquivo database.yml<br/>
 * Database initialization<br/>
 	-none
 * How to run the test suite<br/>
