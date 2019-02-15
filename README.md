@@ -23,7 +23,7 @@ Things you may want to cover:
 	-none, apenas tratamento básico para erros (begin/rescue)
 * Services (job queues, cache servers, search engines, etc.)
 	-none
-* Deployment instructions
+* Deployment instructions<br/>
 	-none
 * Utilização
 	-as urls foram utilizadas no postman setando-se o método HTTP em destaque
