@@ -25,7 +25,7 @@ Things you may want to cover:
 	-none
 * Deployment instructions<br/>
 	-none
-* Utilização
+* Utilização<br/>
 	-as urls foram utilizadas no postman setando-se o método HTTP em destaque<br/>
 	Seguir o padrão de URI para acessar o determinado recurso:<br/>
 	 -POST api/v1/orders(cria uma order)<br/>
